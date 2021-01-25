@@ -1,0 +1,8 @@
+https://blog.csdn.net/allyli0022/article/details/78355687     kaldi训练thchs30详细步骤
+https://zhuanlan.zhihu.com/p/339359482                        Ubuntu安装Kaldi
+https://www.datatang.com/opensource                           开源数据集aidatatang_1,505zh 1,505小时 中文普通话语音数据集简介
+https://blog.csdn.net/u010801439/article/details/80483036     ubuntu 18.04 安装GPU +CUDA+cuDNN及版本选择
+http://openslr.magicdatatech.com/18/                          thchs30 清华数据下载
+http://openslr.magicdatatech.com/62/                          aidatatang数据堂200小时数据下载
+https://zhuanlan.zhihu.com/p/92372743                         基于aidatatang_200zh脚本训练的声音识别
+https://www.jianshu.com/p/9f3692cc3954?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation   kaldi文件解读
